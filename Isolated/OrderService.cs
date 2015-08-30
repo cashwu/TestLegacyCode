@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 
 namespace Isolated
 {
+
+    /// <summary>
+    ///  http://www.codedata.com.tw/social-coding/csharp-legacy-code-test-1-isolated-by-inheritance-override/
+    /// </summary>
     public class OrderService
     {
         private string _filePath = @"c:temp\cash.csv";

@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticSetter", "StaticSette
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticSetterTest", "StaticSetterTest\StaticSetterTest.csproj", "{D36BE65A-B3F2-47EF-A20F-9C93FEF978DD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 Compare Object Equality", "03 Compare Object Equality", "{D0A0BC4B-D9A4-47DC-8D31-62EC6FEFC5E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectEqualityTest", "ObjectEqualityTest\ObjectEqualityTest.csproj", "{066BE0DE-4184-4C65-9D63-CB91FDF4B7F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +41,10 @@ Global
 		{D36BE65A-B3F2-47EF-A20F-9C93FEF978DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D36BE65A-B3F2-47EF-A20F-9C93FEF978DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D36BE65A-B3F2-47EF-A20F-9C93FEF978DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{066BE0DE-4184-4C65-9D63-CB91FDF4B7F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{066BE0DE-4184-4C65-9D63-CB91FDF4B7F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{066BE0DE-4184-4C65-9D63-CB91FDF4B7F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{066BE0DE-4184-4C65-9D63-CB91FDF4B7F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,5 +54,6 @@ Global
 		{E0F2FD23-7562-4EE4-B1EC-1493DF1E0DB8} = {C9C30610-BF66-4651-80B8-4B103AF9B9C5}
 		{18BF541A-06DE-4923-993D-A20625B8DE91} = {7C13CD86-991F-48E7-8021-345C4ACFE317}
 		{D36BE65A-B3F2-47EF-A20F-9C93FEF978DD} = {7C13CD86-991F-48E7-8021-345C4ACFE317}
+		{066BE0DE-4184-4C65-9D63-CB91FDF4B7F5} = {D0A0BC4B-D9A4-47DC-8D31-62EC6FEFC5E6}
 	EndGlobalSection
 EndGlobal

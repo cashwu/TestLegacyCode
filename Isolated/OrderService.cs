@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 
 namespace Isolated
 {
-
     /// <summary>
     ///  http://www.codedata.com.tw/social-coding/csharp-legacy-code-test-1-isolated-by-inheritance-override/
     /// </summary>
